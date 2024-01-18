@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zhezheng.zvision",
+    
+    "sha256_cert_fingerprints": ["11:7C:F0:83:8B:70:EA:9F:60:2E:B4:23:85:88:DE:33:2C:1D:4B:85:D9:FC:96:50:70:3A:56:25:9D:E5:D1:9C"]
+  }
+}]
